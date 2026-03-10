@@ -169,7 +169,7 @@ Las pruebas de los endpoints se realizaron utilizando **Postman**, verificando e
 Repositorio del proyecto:
 
 ```
-https://github.com/tuusuario/api-soporte-tecnico
+[https://github.com/tuusuario/api-soporte-tecnico](https://github.com/paolo2007/api)
 ```
 
 ---
